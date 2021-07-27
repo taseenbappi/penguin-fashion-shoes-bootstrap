@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+
+header{
+    background-color: #FFF9F4;
+}
+header nav{ 
+    background-color: #FFF9F4;
+}
+
+.nav-font-color{
+    color: #3C3C3C;
+}
+
+.banner-img{
+    width: 80%;
+}
